@@ -5,7 +5,7 @@ export class Container {
   bindMap = new Map();
   static container: Container;
 
-  static getIntance() {
+  static getInstance() {
     if (!this.container) {
       this.container = new Container();
     }

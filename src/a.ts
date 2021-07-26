@@ -1,5 +1,3 @@
-// a.ts
-import { Container } from './container';
 import { Inject } from './inject';
 import { Provider } from './provider';
 import { B } from './b';

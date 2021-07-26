@@ -1,4 +1,3 @@
-// load.ts
 import * as fs from 'fs';
 import { CLASS_KEY } from './provider';
 import { Container } from './container';

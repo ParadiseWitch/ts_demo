@@ -1,4 +1,3 @@
-// inject.ts
 import 'reflect-metadata';
 
 export const PROPS_KEY = 'ioc:inject_props';
